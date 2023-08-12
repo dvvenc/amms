@@ -15,7 +15,7 @@
 + **Client Side View Model using KnockoutJS**
 + **React Native**
 
-### Backend+Frontend DOTNET Core MVC, React Native Mobile Frontend
+### Backend+Frontend DOTNET Core MVC, Mobile Frontend using Microsoft Technology
 + **Dotnet Core 6.x LTS Rest API application**
 + **Razor Views for MVC Frontend**
 + **MySQL 8.x**
