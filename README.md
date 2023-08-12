@@ -1,4 +1,4 @@
-# Assets Management System
+# Asset Management System
 ## Possible Technology Stacks
 
 ### Backend Java, React Frontend, React Native Mobile Frontend
